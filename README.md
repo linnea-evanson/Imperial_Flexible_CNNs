@@ -1,3 +1,3 @@
 # Imperial_Flexible_CNNs
 
-Sample work from my Final Year Project 
+Preprint: Artifical Neural Networks Can Benefit From Flexible Mapping Between Neurons and Computations
